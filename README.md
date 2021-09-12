@@ -1,4 +1,4 @@
-# Introduccion a Python
+# Introduccion a Python y bibliografía Inteligencia Artificial
 Aquí encontraréis una introducción a Python y bibliografía para juristas que se quieran dedicar a temas regulatorios en Inteligencia Artificial como de aplicaciones de IA:
 
 1.- Introducción a python en diapositivas: Qué es una variable, tipos de datos que hay (números, strings, listas y diccionarios), bucles, booleans y funciones. 
